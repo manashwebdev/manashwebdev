@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, 👋 I'm Manash Khati!</h1>
+<h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"> I'm Manash Khati!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manashwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
