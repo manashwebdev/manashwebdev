@@ -59,7 +59,7 @@ Lets local merchants launch mobile-optimized catalogs in minutes.
 
 **Stack:** `Next.js 15` `Express.js` `MongoDB` `Gemini API` `Cloudinary` `Vercel` `Render`
 
-🔗 [Live Demo](https://your-shopqr-live-link) · [Source Code](https://github.com/manashwebdev/YOUR-SHOPQR-REPO)
+🔗 [Live Demo](https://shopqr-nine.vercel.app) · [Source Code](https://github.com/manashwebdev/shopqr)
 
 ### 🔹 DevProof: Developer Credibility Platform
 Verifies developer claims using real GitHub activity.
@@ -69,7 +69,7 @@ Verifies developer claims using real GitHub activity.
 
 **Stack:** `React.js` `Vite` `Node.js` `Express.js` `MongoDB` `GitHub API` `Tailwind CSS` `Framer Motion`
 
-🔗 [Live Demo](https://your-devproof-live-link) · [Source Code](https://github.com/manashwebdev/YOUR-DEVPROOF-REPO)
+🔗 [Live Demo](https://devproof-eight.vercel.app) · [Source Code](https://github.com/manashwebdev/devproof)
 
 ### 🔹 ScopeShield: Shared Scope-Agreement Workspace
 Helps freelancers and clients agree on deal terms, with dual-party approval for every change.
@@ -79,7 +79,7 @@ Helps freelancers and clients agree on deal terms, with dual-party approval for 
 
 **Stack:** `React.js` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `Canvas API` `Vercel` `Render`
 
-🔗 [Live Demo](https://your-scopeshield-live-link) · [Source Code](https://github.com/manashwebdev/YOUR-SCOPESHIELD-REPO)
+🔗 [Live Demo](https://scopeshield-pi.vercel.app) · [Source Code](https://github.com/manashwebdev/scopeshield)
 
 ---
 
