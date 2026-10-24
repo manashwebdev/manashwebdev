@@ -29,7 +29,7 @@ I enjoy **third-party API integration** (Gemini, GitHub), **secure authenticatio
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite,tailwind,framer,nodejs,express,mongodb,docker,vercel,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite,tailwind,nodejs,express,mongodb,docker,vercel,git,github,postman,vscode&perline=9" />
 </p>
 
 | Area | Technologies |
@@ -58,6 +58,7 @@ Lets local merchants launch mobile-optimized catalogs in minutes.
 - Free vs. Pro plan logic
 
 **Stack:** `Next.js 15` `Express.js` `MongoDB` `Gemini API` `Cloudinary` `Vercel` `Render`
+
 🔗 [Live Demo](https://your-shopqr-live-link) · [Source Code](https://github.com/manashwebdev/YOUR-SHOPQR-REPO)
 
 ### 🔹 DevProof: Developer Credibility Platform
@@ -67,6 +68,7 @@ Verifies developer claims using real GitHub activity.
 - PDF resume upload and parsing, with history stored in MongoDB
 
 **Stack:** `React.js` `Vite` `Node.js` `Express.js` `MongoDB` `GitHub API` `Tailwind CSS` `Framer Motion`
+
 🔗 [Live Demo](https://your-devproof-live-link) · [Source Code](https://github.com/manashwebdev/YOUR-DEVPROOF-REPO)
 
 ### 🔹 ScopeShield: Shared Scope-Agreement Workspace
@@ -76,6 +78,7 @@ Helps freelancers and clients agree on deal terms, with dual-party approval for 
 - scrypt-hashed credentials, JWT sessions, login rate limiting
 
 **Stack:** `React.js` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `Canvas API` `Vercel` `Render`
+
 🔗 [Live Demo](https://your-scopeshield-live-link) · [Source Code](https://github.com/manashwebdev/YOUR-SCOPESHIELD-REPO)
 
 ---
