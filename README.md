@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://manash-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://freelancing-portfolio-neon.vercel.app/"><img src="https://img.shields.io/badge/Freelancing-0e75b6?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://freelancing-portfolio-neon.vercel.app/"><img src="https://img.shields.io/badge/Freelancing-0e75b6?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manash-khati-b7a1b6385"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
